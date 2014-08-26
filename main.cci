@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:4506049C
+NODE:I LEVEL:0 LINE:9 "C:\CodeVisionAVR\inc\mega32.h"
+NODE:I LEVEL:0 LINE:10 "C:\CodeVisionAVR\inc\twi.h"
+NODE:I LEVEL:0 LINE:11 "C:\CodeVisionAVR\inc\delay.h"
+NODE:I LEVEL:0 LINE:12 "C:\CodeVisionAVR\inc\alcd.h"
+NODE:I LEVEL:0 LINE:13 "C:\CodeVisionAVR\inc\stdio.h"
+NODE:M LEVEL:0 LINE:15 "AT24_ADDRESS"
+NODE:F LEVEL:0 LINE:17 "main(void)"

@@ -1,0 +1,28 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+twi_tx_index                                                      0x0260       1
+twi_rx_index                                                      0x0261       1
+twi_result                                                        0x0262       1
+slave_address                                                     0x0263       1
+twi_tx_buffer                                                     0x0264       2
+bytes_to_tx                                                       0x0266       1
+twi_rx_buffer                                                     0x0267       2
+bytes_to_rx                                                       0x0269       1
+twi_rx_buffer_size                                                0x026A       1
+twi_slave_rx_handler                                              0x026B       2
+twi_slave_tx_handler                                              0x026D       2
+_base_y                                                           0x026F       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+twi_flag                                                          R2.0      1bit
+twi_ready                                                         R2.1      1bit
+_lcd_x                                                            R5           1
+_lcd_y                                                            R4           1
+_lcd_maxx                                                         R7           1
